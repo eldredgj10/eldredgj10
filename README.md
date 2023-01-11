@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jeanette Eldredge
 - 👀 I’m interested in Special Eductation Technology.
-- 🌱 I’m currently learning Javascript and Python.
+- 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on projects to help benefit others.
 - 📫 How to reach me: eld18001@byui.edu
 
